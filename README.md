@@ -1,5 +1,4 @@
 <h1>Sales Forecasting</h1>
-<p>Project Title: Sales Forecasting System</p>
 <h3>Objective:</h3>
 <p>To predict future sales using historical data.</p>
 <h3>Problem Statement:</h3>
