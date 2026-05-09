@@ -1,11 +1,11 @@
-<h1>Sales Forecasting</h1><br>
+<h1>Sales Forecasting</h1>
 <p>Project Title: Sales Forecasting System</p>
-<h2>Objective:</h2>
+<h3>Objective:</h3>
 <p>To predict future sales using historical data.</p>
-<h2>Problem Statement:</h2>
+<h3>Problem Statement:</h3>
 <p><i>Accurate sales forecasting helps in inventory and business planning. This project aims to build a predictive model for sales trends.</i></p>
-<h2>Suggested Datasets:</h2>
+<h3>Suggested Datasets:</h3>
 <p>     •	Walmart Sales Dataset</p>
-<h2>Suggested Models</h2>
+<h3>Suggested Models</h3>
 <p>     •	XGBoost Regression<br> 
         •	Random Forest Regression</p>
